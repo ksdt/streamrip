@@ -1,0 +1,16 @@
+{
+  "name": "streamrip",
+  "version": "1.0.0",
+  "description": "module for backing up files to b2",
+  "main": "b2.js",
+  "dependencies": {
+    "backblaze-b2": "^0.9.5",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tennyson Holloway",
+  "license": "MIT"
+}
